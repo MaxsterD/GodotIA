@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "patch_url": "https://raw.githubusercontent.com/MaxsterD/GodotIA/main/export/patch.pck",
-  "changelog": "Animacion suave de colapso y eliminacion del cuadro negro al minimizar."
+  "changelog": "Correccion de anclajes de ventanas: previene estiramiento y preserva boton de minimizar."
 }
