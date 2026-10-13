@@ -1,0 +1,5 @@
+{
+  "version": "1.0.1",
+  "patch_url": "https://raw.githubusercontent.com/MaxsterD/GodotIA/main/export/patch.pck",
+  "changelog": "Primer parche con cámara arreglada para 3+ jugadores y sistema de auto-actualización."
+}
