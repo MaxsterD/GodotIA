@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.1.0",
   "patch_url": "https://raw.githubusercontent.com/MaxsterD/GodotIA/main/export/patch.pck",
-  "changelog": "Correccion de anclajes de ventanas: previene estiramiento y preserva boton de minimizar."
+  "changelog": "Nuevo personaje 3D: Sonic Oscuro modelado y animado en Blender con seleccion de skin."
 }
