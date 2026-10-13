@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "patch_url": "https://raw.githubusercontent.com/MaxsterD/GodotIA/main/export/patch.pck",
-  "changelog": "Correccion de orientacion y animacion de Sonic: corre hacia adelante de forma natural sin moonwalk."
+  "changelog": "Icono de Sonic optimizado en alta definicion y recarga forzada de recursos del parche."
 }
