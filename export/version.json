@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "patch_url": "https://raw.githubusercontent.com/MaxsterD/GodotIA/main/export/patch.pck",
-  "changelog": "Paneles del HUD minimizables individualmente."
+  "changelog": "Animacion suave de colapso y eliminacion del cuadro negro al minimizar."
 }
